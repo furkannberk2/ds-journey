@@ -39,9 +39,10 @@ Currently in **Stage 1 — Python for data science** (April 2026)
 
 ### Week 8 — April 7–13, 2026
 
+This week, I am refreshing my memory and knowledge from my academical background related to Python in Kaggle with reading and practicing with exercises
 
-Resource:
-Next Week: 
+Resource: https://www.kaggle.com/learn/pandas
+Next Week: Kaggle Data Visualization Course & Titanic EDA
 
 ---
 
@@ -50,30 +51,6 @@ Next Week:
 
 ## Repo structure
 
-```
-ds-journey/
-    stage-1-python/
-        numpy-basics.ipynb
-        pandas-operations.ipynb
-        visualization.ipynb
-        notes.md
-    stage-2-statistics/
-        probability-distributions.ipynb
-        hypothesis-testing.ipynb
-        notes.md
-    stage-3-ml/          (coming)
-    stage-4-nlp/         (coming)
-    stage-5-recommender/ (coming)
-    resources/
-        reading-list.md
-
-Related repos:
-    nlp-projects       github.com/username/nlp-projects
-    ml-experiments     github.com/username/ml-experiments
-    ai-reading-notes   github.com/username/ai-reading-notes
-```
-
----
 
 ## Reading
 
